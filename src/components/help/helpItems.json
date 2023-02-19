@@ -1,0 +1,22 @@
+[
+    {
+        "text": "0–0.5m",
+        "image": "Legend-1.png"
+    },
+    {
+        "text": ">0.5–1m",
+        "image": "Legend-2.png"
+    },
+    {
+        "text": ">1–2m",
+        "image": "Legend-3.png"
+    },
+    {
+        "text": ">2–4m",
+        "image": "Legend-4.png"
+    },
+    {
+        "text": ">4m",
+        "image": "Legend-5.png"
+    }
+]
